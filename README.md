@@ -155,7 +155,7 @@ Feel free to open an issue if you find a bug or have a feature request.
 
 ## License
 
-MIT License – see [LICENSE](LICENSE) file.
+MIT License – see [LICENSE](LICENSE.md) file.
 
 ---
 
