@@ -3,13 +3,12 @@
 	"version": "0.1.0",
 	"description": "This wordpress node adds advanced Post, Page, and User operations to n8n with features that the official WordPress node does not provide.",
 	"license": "MIT",
-	"homepage": "",
+	"homepage": "https://github.com/LearningSpot/n8n-nodes-wordpress#readme",
 	"keywords": [
-		"n8n-community-node-package", "Wordpress", "n8n",  "LearningSpot"
+		"n8n-community-node-package", "Wordpress", "n8n", "n8n-nodes", "automation", "integration", "wp",  "LearningSpot"
 	],
 	"author": {
-		"name": "LearningSpot",
-		"email": ""
+		"name": "LearningSpot"
 	},
 	"repository": {
 		"type": "git",
