@@ -1,2 +1,3 @@
 .github
 .deploy-node.sh
+*.tsbuildinfo
